@@ -1,4 +1,4 @@
 # hello-world
 Hello World repository
 
-This is a test to learn about branching.
+Hallo Wereld! | Hello World! | 	Hallo Welt! | Bonjour monde! | ¡Hola Mundo! | こんにちは世界！| Ciao mondo! | Halló heimur! | Hej Verden!
